@@ -1,4 +1,7 @@
 > Image Pyramids and Image Blending with Python
+
+<img align="center" alt="HTML"  src="https://github.com/yosefede06/Pyramid-blending-python/blob/main/pyramid-result/monkey-pyramid.png" />
+
 ## Introduction
 This software is about the implementation of image pyramids, low-pass and band-pass filtering, and their application in image blending. The purpose of this software is to provide an understanding of how Gaussian and Laplacian pyramids are constructed and used in image blending.
 
